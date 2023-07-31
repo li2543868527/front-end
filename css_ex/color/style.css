@@ -1,0 +1,35 @@
+h1{
+    color: #0000ff;
+    /*背景色をつける*/
+    background-color: rgb(242,135,238);
+    /*画面の中央に揃える*/
+    text-align: center;
+   /* font-family: Arial, Helvetica, sans-serif;*/
+
+    font-family: 'Borel', cursive;
+
+    font-size: 20px;
+
+    width: 600px;
+
+    height: 100px;
+
+    margin: 0 auto;
+}
+
+p{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+a{
+    background-color: rgb(152,152,235);
+    text-align: center;
+}
+
+#a{
+    display: block;
+}
+div{
+    text-align: center;
+}
